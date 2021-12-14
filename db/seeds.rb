@@ -39,4 +39,7 @@ Plant.create!([
   }
 ])
 
+
+Thing.create(first: 12.14, second: 32.25)
+
 puts '✅ Done seeding!'
